@@ -265,28 +265,6 @@ Sortable, searchable campaign management
 
 ---
 
-## 🚧 Future Roadmap
-
-### Phase 1 (Next 30 Days)
-- [ ] Conversion tracking integration
-- [ ] Keyword-level analysis dashboard
-- [ ] A/B test comparison tool
-- [ ] Budget forecasting model
-
-### Phase 2 (Next 60 Days)
-- [ ] Real-time Google Ads API connection
-- [ ] Automated anomaly alerts
-- [ ] Competitor benchmarking
-- [ ] Mobile app (React Native)
-
-### Phase 3 (Next 90 Days)
-- [ ] ML-based bid optimization
-- [ ] Predictive analytics engine
-- [ ] Multi-account management
-- [ ] White-label agency solution
-
----
-
 ## 🤝 Contributing
 
 This is an internship project submission. To suggest improvements:
@@ -303,16 +281,14 @@ This is an internship project submission. To suggest improvements:
 
 **Aman Raj**  
 - GitHub: [@amanraj74](https://github.com/amanraj74)
-- Email: [Your Email]
-- LinkedIn: [Your LinkedIn]
+- Email: [aerraj50@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/aman-jaiswal-05b962212/]
 
 ---
 
 ## 🎓 Project Context
 
-**Assignment:** Data Analyst Intern — The Night Marketer  
-**Duration:** 3 days development  
-**Submission:** February 6, 2026  
+**Assignment:** Data Analyst Intern — The Night Marketer     
 **Campaign Period:** November 3, 2025 - February 3, 2026 (90 days)
 
 ---
@@ -333,13 +309,6 @@ Data is proprietary to ToolWorld India and The Night Marketer.
 
 ---
 
-## 📞 Contact
-
-For questions about this project or internship evaluation:
-- **Email:** raghav@thenightmarketer.com, kavya@thenightmarketer.com
-- **Company:** The Night Marketer
-
----
 
 <div align="center">
 
