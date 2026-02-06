@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Custom styles */
+body {
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+.metric-card {
+  @apply bg-white rounded-xl p-6 shadow-lg border border-gray-100 hover:shadow-xl transition-shadow;
+}
+
+.card-shadow {
+  @apply shadow-lg hover:shadow-xl transition-shadow;
+}

@@ -1,0 +1,252 @@
+{
+  "data": [
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Enabled",
+      "Cost": 24532.22,
+      "Clicks": 2969,
+      "CTR": 0.0103,
+      "Impressions_Estimated": 288252.42718446604,
+      "Performance_Category": "Low"
+    },
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Paused",
+      "Cost": 16475.57,
+      "Clicks": 1955,
+      "CTR": 0.0497,
+      "Impressions_Estimated": 39336.01609657948,
+      "Performance_Category": "High"
+    },
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Paused",
+      "Cost": 15275.23,
+      "Clicks": 2025,
+      "CTR": 0.0192,
+      "Impressions_Estimated": 105468.75000000001,
+      "Performance_Category": "Low"
+    },
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Enabled",
+      "Cost": 14363.98,
+      "Clicks": 1423,
+      "CTR": 0.0297,
+      "Impressions_Estimated": 47912.45791245791,
+      "Performance_Category": "Medium"
+    },
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Enabled",
+      "Cost": 9855.77,
+      "Clicks": 2164,
+      "CTR": 0.0188,
+      "Impressions_Estimated": 115106.3829787234,
+      "Performance_Category": "Low"
+    },
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Enabled",
+      "Cost": 9407.04,
+      "Clicks": 3158,
+      "CTR": 0.0443,
+      "Impressions_Estimated": 71286.68171557563,
+      "Performance_Category": "High"
+    },
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Paused",
+      "Cost": 7415.28,
+      "Clicks": 3719,
+      "CTR": 0.0366,
+      "Impressions_Estimated": 101612.0218579235,
+      "Performance_Category": "Medium"
+    },
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Paused",
+      "Cost": 6790.98,
+      "Clicks": 1996,
+      "CTR": 0.0425,
+      "Impressions_Estimated": 46964.70588235294,
+      "Performance_Category": "High"
+    },
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Paused",
+      "Cost": 6226.86,
+      "Clicks": 3588,
+      "CTR": 0.0465,
+      "Impressions_Estimated": 77161.29032258065,
+      "Performance_Category": "High"
+    },
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Enabled",
+      "Cost": 4674.64,
+      "Clicks": 2808,
+      "CTR": 0.0403,
+      "Impressions_Estimated": 69677.41935483871,
+      "Performance_Category": "High"
+    },
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Enabled",
+      "Cost": 3553.51,
+      "Clicks": 941,
+      "CTR": 0.0243,
+      "Impressions_Estimated": 38724.279835390946,
+      "Performance_Category": "Medium"
+    },
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Paused",
+      "Cost": 3131.06,
+      "Clicks": 863,
+      "CTR": 0.0712,
+      "Impressions_Estimated": 12120.786516853932,
+      "Performance_Category": "High"
+    },
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Enabled",
+      "Cost": 3105.1,
+      "Clicks": 444,
+      "CTR": 0.0226,
+      "Impressions_Estimated": 19646.017699115044,
+      "Performance_Category": "Medium"
+    },
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Paused",
+      "Cost": 3042.36,
+      "Clicks": 2712,
+      "CTR": 0.0395,
+      "Impressions_Estimated": 68658.22784810126,
+      "Performance_Category": "Medium"
+    },
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Paused",
+      "Cost": 2922.79,
+      "Clicks": 157,
+      "CTR": 0.0043,
+      "Impressions_Estimated": 36511.62790697674,
+      "Performance_Category": "Low"
+    },
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Paused",
+      "Cost": 1842.29,
+      "Clicks": 450,
+      "CTR": 0.0447,
+      "Impressions_Estimated": 10067.114093959732,
+      "Performance_Category": "High"
+    },
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Paused",
+      "Cost": 1276.05,
+      "Clicks": 429,
+      "CTR": 0.0355,
+      "Impressions_Estimated": 12084.507042253523,
+      "Performance_Category": "Medium"
+    },
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Paused",
+      "Cost": 1132.14,
+      "Clicks": 115,
+      "CTR": 0.0893,
+      "Impressions_Estimated": 1287.7939529675252,
+      "Performance_Category": "High"
+    },
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Paused",
+      "Cost": 908.57,
+      "Clicks": 892,
+      "CTR": 0.0562,
+      "Impressions_Estimated": 15871.886120996442,
+      "Performance_Category": "High"
+    },
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Enabled",
+      "Cost": 610.9,
+      "Clicks": 71,
+      "CTR": 0.0223,
+      "Impressions_Estimated": 3183.8565022421526,
+      "Performance_Category": "Medium"
+    },
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Paused",
+      "Cost": 422.46,
+      "Clicks": 376,
+      "CTR": 0.0351,
+      "Impressions_Estimated": 10712.250712250712,
+      "Performance_Category": "Medium"
+    },
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Paused",
+      "Cost": 397.71,
+      "Clicks": 65,
+      "CTR": 0.0931,
+      "Impressions_Estimated": 698.1740064446831,
+      "Performance_Category": "High"
+    },
+    {
+      "Campaign Name": "Campaign Name",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Paused",
+      "Cost": 210.69,
+      "Clicks": 32,
+      "CTR": 0.1053,
+      "Impressions_Estimated": 303.89363722697055,
+      "Performance_Category": "High"
+    },
+    {
+      "Campaign Name": "Function Generator",
+      "Campaign Group Name": 0,
+      "Campaign Status": "Enabled",
+      "Cost": 146.49,
+      "Clicks": 19,
+      "CTR": 0.0333,
+      "Impressions_Estimated": 570.5705705705706,
+      "Performance_Category": "Medium"
+    }
+  ],
+  "summary": {
+    "total_campaigns": 24,
+    "enabled_campaigns": 9,
+    "paused_campaigns": 15,
+    "total_cost": 137719.69,
+    "total_clicks": 33371,
+    "avg_ctr": 0.042275
+  }
+}

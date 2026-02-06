@@ -1,0 +1,20 @@
+[
+  {
+    "Network": "Google Search",
+    "Clicks": 2155,
+    "Cost": 9825.22,
+    "Avg. CPC": 4.56
+  },
+  {
+    "Network": "Search partners",
+    "Clicks": 9,
+    "Cost": 30.55,
+    "Avg. CPC": 3.39
+  },
+  {
+    "Network": "Cross-network",
+    "Clicks": 31207,
+    "Cost": 127863.93,
+    "Avg. CPC": 4.1
+  }
+]

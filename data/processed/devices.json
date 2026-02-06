@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "Device": "Computers",
+      "Cost": 69030.75,
+      "Impressions": 167622,
+      "Clicks": 5021,
+      "CTR": 0.029954301941272625,
+      "Cost_Per_Click": 13.748406691894045,
+      "Cost_Per_Impression": 0.41182392526040734
+    },
+    {
+      "Device": "Mobile Phones",
+      "Cost": 68135.64,
+      "Impressions": 1011264,
+      "Clicks": 28100,
+      "CTR": 0.02778700715144611,
+      "Cost_Per_Click": 2.424755871886121,
+      "Cost_Per_Impression": 0.06737670875261059
+    },
+    {
+      "Device": "Tablets",
+      "Cost": 420.15,
+      "Impressions": 12384,
+      "Clicks": 158,
+      "CTR": 0.012758397932816537,
+      "Cost_Per_Click": 2.659177215189873,
+      "Cost_Per_Impression": 0.03392684108527132
+    },
+    {
+      "Device": "TV screens",
+      "Cost": 106.15,
+      "Impressions": 727,
+      "Clicks": 1,
+      "CTR": 0.001375515818431912,
+      "Cost_Per_Click": 106.15,
+      "Cost_Per_Impression": 0.14601100412654747
+    }
+  ],
+  "summary": {
+    "total_cost": 137692.69,
+    "total_clicks": 33280,
+    "total_impressions": 1191997
+  }
+}

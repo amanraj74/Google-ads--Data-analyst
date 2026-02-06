@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "Optimisation score": 78.10000000000001,
+      "Campaign Name": "Target All- All Products"
+    },
+    {
+      "Optimisation score": 80.9,
+      "Campaign Name": "Oscilloscope"
+    },
+    {
+      "Optimisation score": 85.39999999999999,
+      "Campaign Name": "UNI-T"
+    },
+    {
+      "Optimisation score": 85.5,
+      "Campaign Name": "Hantek"
+    },
+    {
+      "Optimisation score": 85.6,
+      "Campaign Name": "Fume extractors"
+    },
+    {
+      "Optimisation score": 85.7,
+      "Campaign Name": "Power Supply all"
+    },
+    {
+      "Optimisation score": 86.2,
+      "Campaign Name": "YIHUA"
+    },
+    {
+      "Optimisation score": 94.3,
+      "Campaign Name": "Function Generator"
+    },
+    {
+      "Optimisation score": 96.7,
+      "Campaign Name": "UNI-T Instruments"
+    }
+  ],
+  "summary": {
+    "avg_score": 86.4888888888889,
+    "min_score": 78.10000000000001,
+    "max_score": 96.7
+  }
+}
